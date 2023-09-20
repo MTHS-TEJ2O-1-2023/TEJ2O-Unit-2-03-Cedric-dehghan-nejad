@@ -6,5 +6,8 @@
 */
 
 basic.clearScreen()
+basic.pause(1000)
 
-basic.showString('Hello, World!')
+basic.showString('area 5 x 3 = ' + (5 * 3).toString() + ('cm^2')) 
+
+basic.showString('perimeter 2*(5+3 = ' + (2*(5 + 3).toString() + ('cm')))
