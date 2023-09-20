@@ -8,6 +8,7 @@
 basic.clearScreen()
 basic.pause(1000)
 
+basic.showString(' the area of a rectangle is 5cm and 3cm A = 5 x 3 = ' + (5*3).toString()) 
+
 basic.showString('area 5 x 3 = ' + (5 * 3).toString() + ('cm^2')) 
 
-basic.showString('perimeter 2*(5+3 = ' + (2*(5 + 3).toString() + ('cm')))
