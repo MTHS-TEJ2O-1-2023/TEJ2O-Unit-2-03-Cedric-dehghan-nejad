@@ -20,6 +20,6 @@ sleep(0.5)
 
 display.scroll(
     "perimeter of a rectangle is 3cm by 5cm P = 2(l+w) + 2(5+3))= "
-    + str(2 * (5 * 3)) 
+    + str(2 * (5 * 3))
     + ("cm")
 )
