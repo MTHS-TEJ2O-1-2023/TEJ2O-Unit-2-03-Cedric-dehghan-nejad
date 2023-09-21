@@ -23,6 +23,3 @@ display.scroll(
     + str(2 * (5 * 3)) 
     + ("cm")
 )
-display.show(Image.happy)
-sleep(0.5)
-display.clear()
